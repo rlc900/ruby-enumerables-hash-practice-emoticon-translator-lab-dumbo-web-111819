@@ -1,4 +1,4 @@
-ssage for thi# Emoticon Translator
+# Emoticon Translator
 
 ## Learning Goals
 
